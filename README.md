@@ -3,7 +3,9 @@
 完整工程的目录是：
 
   -- data
+  
   -- Inception-3_code
+  
   -- models
 
 -----------------------------
@@ -13,11 +15,11 @@
 
 -- flower_photos
   
-  ---- roses
+  ------ roses
   
-  ---- sunflowers
+  ------ sunflowers
   
-  ---- tulips
+  ------ tulips
   
 ------------------------------
 
@@ -25,4 +27,4 @@ models中文件：
 
   -- models
   
-  ---- classify_image_graph_def.pb
+  ------ classify_image_graph_def.pb
